@@ -13,7 +13,7 @@
 
 ## 2. Get Morgan Substrctures
 
-<p align="center"> <img width="800"  src="https://user-images.githubusercontent.com/47986787/168453822-20f5a344-26b4-428c-89c3-cbd09f12d509.png"> </p>
+<p align="center"> <img width="900"  src="https://user-images.githubusercontent.com/47986787/168453822-20f5a344-26b4-428c-89c3-cbd09f12d509.png"> </p>
 
 
 ## 3. Molecule-Graph-Attributes-For-GNN
