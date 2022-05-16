@@ -24,5 +24,5 @@
     #3. Bond_Adjacency_Matrix       size: (n_node, n_node)               type: numpy.array
         3.1 Bond information can be easily obtained using RDKit python libraries.
     #4. Bond_Attributes             size: (n_node, n_node, dim_attr)     type: numpy.array
-        4.1 Bond Energy is obtained using -Alfabet-.
+        4.1 Bond Energy is obtained using Alfabet.
         4.2 Bond Length is obtained using RDKit.
