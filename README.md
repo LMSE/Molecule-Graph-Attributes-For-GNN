@@ -18,6 +18,11 @@
 
 ## 3. Molecule-Graph-Attributes-For-GNN
     #1. Atom_Attributes             size: (n_node, n_attr)               type: numpy.array
+        1.1 Attributes are Morgan encodings of molecule substructures centered around each atom.
     #2. Atom_RXN_Portion            size: (n_rxn_portion)                type: List
+        2.1 Reaction portion are extracted through pattern matching of the molecule structures with reaction rules.
     #3. Bond_Adjacency_Matrix       size: (n_node, n_node)               type: numpy.array
+        3.1 Bond information can be easily obtained using RDKit python libraries.
     #4. Bond_Attributes             size: (n_node, n_node, dim_attr)     type: numpy.array
+        4.1 Bond Energy is obtained using -Alfabet-.
+        4.2 Bond Length is obtained using RDKit.
